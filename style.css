@@ -10,10 +10,6 @@ body {
   background-color: #e76f51;
 }
 
-.btn-orange:hover {
-  background-color: black;
-}
-
 .btn-outline-orange {
   border-color: #e76f51;
   color: #e76f51;
@@ -50,8 +46,4 @@ header {
 /* News Section */
 .item {
   box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
-}
-
-/* Footer Section */
-footer a {
 }
