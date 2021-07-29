@@ -8,8 +8,34 @@ body {
 
 .btn-orange {
   background-color: #e76f51;
-  font-size: 16px;
-  padding: 7px 30px;
+}
+
+.btn-outline-orange {
+  border-color: #e76f51;
+  color: #e76f51;
+}
+
+.btn-outline-orange:hover {
+  background-color: #e76f51;
+  color: white;
+}
+
+.color-orange {
+  color: #e76f51;
+}
+
+.image-gray {
+  filter: grayscale(100%);
+}
+
+.section-title {
+  font-size: 42px;
+}
+
+/* Header part */
+
+header {
+  background-color: #264653;
 }
 
 .header-text {
@@ -17,6 +43,4 @@ body {
   font-size: 15px;
 }
 
-header {
-  background-color: #264653;
-}
+/* Feature Section */
